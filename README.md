@@ -90,10 +90,10 @@ Remove um brinquedo do sistema.
 - Para testar no Postman, utilize os exemplos de JSON acima.
 
 	![Exemplo Swagger](docs/swagger.png)
-	![Exemplo Postman GET](docs/get.png)
-	![Exemplo Postman POST](docs/post.png)
-	![Exemplo Postman PUT](docs/put.png)
-	![Exemplo Postman DELETE](docs/delete.png)
+	![Exemplo Postman GET](docs/GET.png)
+	![Exemplo Postman POST](docs/POST.png)
+	![Exemplo Postman PUT](docs/PUT.png)
+	![Exemplo Postman DELETE](docs/DELETE.png)
 
 ## Observações
 
