@@ -4,7 +4,7 @@
 
 ToyShop é uma API desenvolvida em C# com .NET e Entity Framework Core para gerenciar brinquedos de uma empresa voltada para crianças até 14 anos. O projeto utiliza banco de dados relacional (Oracle SQL Developer) e contempla todas as operações CRUD (Create, Read, Update, Delete) via endpoints HTTP, testados com Swagger e Postman.
 
-A tabela utilizada no banco de dados é `Brinquedos`, com as seguintes colunas:
+A tabela utilizada no banco de dados é `TDS_TB_Brinquedos`, com as seguintes colunas:
 - `Id_brinquedo`
 - `Nome_brinquedo`
 - `Tipo_brinquedo`
