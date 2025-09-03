@@ -1,5 +1,10 @@
 # ToyShop
 
+## Integrantes
+- Gabriel Santos Jablonski, rm:555452
+- Gustavo Lopes Santos da Silva, rm:556859
+- Renato de Freitas David Campiteli, rm:555627
+
 ## Descrição
 
 ToyShop é uma API desenvolvida em C# com .NET e Entity Framework Core para gerenciar brinquedos de uma empresa voltada para crianças até 14 anos. O projeto utiliza banco de dados relacional (Oracle SQL Developer) e contempla todas as operações CRUD (Create, Read, Update, Delete) via endpoints HTTP, testados com Swagger e Postman.
