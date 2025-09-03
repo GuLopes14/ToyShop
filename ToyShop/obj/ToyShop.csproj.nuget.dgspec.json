@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj": {}
+    "C:\\Users\\labsfiap\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj": {
+    "C:\\Users\\labsfiap\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj",
         "projectName": "ToyShop",
-        "projectPath": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj",
-        "packagesPath": "C:\\Users\\guslo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\obj\\",
+        "projectPath": "C:\\Users\\labsfiap\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj",
+        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labsfiap\\Desktop\\ToyShop\\ToyShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\guslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
