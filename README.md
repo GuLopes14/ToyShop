@@ -32,12 +32,12 @@ A tabela utilizada no banco de dados é `TDS_TB_Brinquedos`, com as seguintes co
 	 git clone https://github.com/GuLopes14/ToyShop.git
 	 ```
 2. Configure a string de conexão no arquivo `appsettings.json`.
-3. Execute as migrações do Entity Framework Core para criar a tabela no banco de dados.
-4. Inicie o projeto:
+4. Instale dependências: `dotnet restore`.
+5. Inicie o projeto:
 	 ```bash
 	 dotnet run
 	 ```
-5. Acesse o Swagger em: `http://localhost:5000/swagger` (ou porta configurada).
+6. Acesse o Swagger em: `http://localhost:5000/swagger` (ou porta configurada).
 
 ## Endpoints
 
