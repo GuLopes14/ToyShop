@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\",
+  "WorkspaceRootPath": "C:\\Users\\guslo\\Desktop\\ToyShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\models\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\models\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\models\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\toyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\toyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\toyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\controller\\brinquedoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\controller\\brinquedoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\controller\\brinquedoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\data\\toystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\data\\toystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\data\\toystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\faculdade\\segundo ano\\advanced business development with .net\\toyshop\\toyshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|c:\\users\\guslo\\desktop\\toyshop\\toyshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3C4A3525-DAF7-478F-BE23-9CB192F8D1DC}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Brinquedo.cs",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Models\\Brinquedo.cs",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Models\\Brinquedo.cs",
               "RelativeDocumentMoniker": "ToyShop\\Models\\Brinquedo.cs",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Models\\Brinquedo.cs",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Models\\Brinquedo.cs",
               "RelativeToolTip": "ToyShop\\Models\\Brinquedo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:30:53.578Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ToyStore.cs",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Data\\ToyStore.cs",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Data\\ToyStore.cs",
               "RelativeDocumentMoniker": "ToyShop\\Data\\ToyStore.cs",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Data\\ToyStore.cs",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Data\\ToyStore.cs",
               "RelativeToolTip": "ToyShop\\Data\\ToyStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BrinquedosController.cs",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Controller\\BrinquedosController.cs",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Controller\\BrinquedosController.cs",
               "RelativeDocumentMoniker": "ToyShop\\Controller\\BrinquedosController.cs",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Controller\\BrinquedosController.cs",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Controller\\BrinquedosController.cs",
               "RelativeToolTip": "ToyShop\\Controller\\BrinquedosController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwD0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Program.cs",
               "RelativeDocumentMoniker": "ToyShop\\Program.cs",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\Program.cs",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\Program.cs",
               "RelativeToolTip": "ToyShop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ToyShop.csproj",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj",
               "RelativeDocumentMoniker": "ToyShop\\ToyShop.csproj",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\ToyShop.csproj",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\ToyShop.csproj",
               "RelativeToolTip": "ToyShop\\ToyShop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\appsettings.json",
               "RelativeDocumentMoniker": "ToyShop\\appsettings.json",
-              "ToolTip": "C:\\Users\\guslo\\Desktop\\Faculdade\\SEGUNDO ANO\\Advanced Business Development with .NET\\ToyShop\\ToyShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\guslo\\Desktop\\ToyShop\\ToyShop\\appsettings.json",
               "RelativeToolTip": "ToyShop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

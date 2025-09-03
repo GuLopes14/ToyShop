@@ -55,7 +55,7 @@ Cadastra um novo brinquedo.
     "Id_brinquedo": 1,
 	"nome_brinquedo": "Boneca",
 	"tipo_brinquedo": "Boneca",
-	"classificacao": "5+",
+	"classificacao": 5,
 	"tamanho": "Médio",
 	"preco": 79.90
 }
@@ -68,9 +68,10 @@ Atualiza um brinquedo existente.
 **Exemplo de JSON para atualização no Postman:**
 ```json
 {
+	"Id_brinquedo": 1,
 	"nome_brinquedo": "Boneca Super",
 	"tipo_brinquedo": "Boneca",
-	"classificacao": "5+",
+	"classificacao": 6,
 	"tamanho": "Grande",
 	"preco": 99.90
 }
