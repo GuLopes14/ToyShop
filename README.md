@@ -1,4 +1,4 @@
-# ToyShop
+# ToyShop 🧸
 
 ## Integrantes
 - Gabriel Santos Jablonski, rm:555452
